@@ -26,7 +26,6 @@ public class Main {
         System.out.println("Задание 2");
 
         countEvenNumbers(integerList);
-
     }
 
     public static <T> void findMinmax(
